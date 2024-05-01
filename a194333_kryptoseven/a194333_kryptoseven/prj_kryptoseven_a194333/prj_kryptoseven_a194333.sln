@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_kryptoseven_a194333", "prj_kryptoseven_a194333\prj_kryptoseven_a194333.vbproj", "{D0FD0D6D-D7C5-4C26-9BB5-D007D0A3AB79}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_KryptoSeven_A194333", "Setup_KryptoSeven_A194333\Setup_KryptoSeven_A194333.vdproj", "{4BECFCC0-4C35-4F2C-9918-227BB8A200CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0FD0D6D-D7C5-4C26-9BB5-D007D0A3AB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FD0D6D-D7C5-4C26-9BB5-D007D0A3AB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FD0D6D-D7C5-4C26-9BB5-D007D0A3AB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FD0D6D-D7C5-4C26-9BB5-D007D0A3AB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BECFCC0-4C35-4F2C-9918-227BB8A200CA}.Debug|Any CPU.ActiveCfg = Debug
+		{4BECFCC0-4C35-4F2C-9918-227BB8A200CA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D8620A-0026-4EDF-9C7B-1CFEE0B71BFD}
+	EndGlobalSection
+EndGlobal
